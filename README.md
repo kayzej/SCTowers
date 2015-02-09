@@ -1,5 +1,7 @@
 # SCTowers
 
+Rough Template for javascript tower defense game.
+
 Instructions:
 * Serve up the entire folder with http-server or your favorite web server
 * Click on the screen to place marines but don't block it off completely
